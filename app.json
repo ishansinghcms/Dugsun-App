@@ -1,10 +1,15 @@
 {
   "expo": {
-    "name": "myNewNativeApp",
-    "slug": "myNewNativeApp",
+    "name": "Dugsun-Festival",
+    "slug": "Dugsun-Festival",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "930a574e-ccda-4305-9392-ca0a74c69b7b"
+      }
+    }
   }
 }
